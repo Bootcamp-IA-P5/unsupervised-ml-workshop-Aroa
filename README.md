@@ -82,4 +82,4 @@ Markdown
 
 El análisis demuestra que la estructura inherente del **Mushroom Dataset** es fuertemente binaria. La alta puntuación del **Adjusted Rand Index (ARI)** valida que el **K-Means Clustering** fue capaz de **descubrir la clasificación** (comestible vs. venenoso) sin utilizar las etiquetas de entrenamiento. Esto subraya la potencia de la combinación de One-Hot Encoding, PCA y K-Means para el análisis y segmentación de datos categóricos en el ámbito no supervisado.
 
-<p align="center">Desarrollado con ❤️ usando Python. **SparkCode** ✨</p>
+<p align="center">Desarrollado con ❤️ usando Python. SparkCode✨</p>
